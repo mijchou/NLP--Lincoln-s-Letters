@@ -1,2 +1,16 @@
 # NLP--Lincoln-s-Letters
-Text sentiment analysis on Lincoln's letters.
+
+## Sections
+
+* Introduction
+* Word Frequency Analysis
+* Wordclouds: The Most Common Words
+* Sentiment Analysis
+
+## Introduction
+
+## Word Frequency Analysis
+
+## Wordclouds: The Most Common Words
+
+## Sentiment Analysis
